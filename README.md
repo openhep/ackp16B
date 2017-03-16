@@ -6,8 +6,8 @@ This is the code for the numerics and figures for paper
 
 
 Oleg Antipin, Petar Čuljak, Krešimir Kumerički and Ivica Picek, 
-_Extended Higgs Sectors in Radiative Neutrino Models_
-
+_Extended Higgs Sectors in Radiative Neutrino Models_,
+[arXiv:1703.05075](http://arxiv.org/abs/1703.05075), to appear in Phys. Lett. B
 
 Jupyter/Python notebook ``RnuH.ipynb`` produces all figures and numbers found in the paper. 
 Other files contain auxilliary Python functions.
